@@ -1,0 +1,4 @@
+- mnist.npz 
+  - https://s3.amazonaws.com/img-datasets/mnist.npz
+- new.csv - real and fake news dataset
+  - https://www.kaggle.com/datasets/nopdev/real-and-fake-news-dataset
